@@ -102,12 +102,12 @@
             //get the value of pass2 to pass2 veriable
             var pass2 = document.reg.pass2.value;
 
-            //cheack all input feilds are empty
+            
             if(pass1 != pass2){
                     alert("Password and Confirm Password doesn't match");
                     return false; 
             }
-
+            //cheack all input feilds are empty
             if(user.length == "" && email.length == "" && pass1.length == "" && pass2.length == ""){
                 alert("request feilds shouldn't be empty");
                 return false;
