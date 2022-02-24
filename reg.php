@@ -102,7 +102,7 @@
             //get the value of pass2 to pass2 veriable
             var pass2 = document.reg.pass2.value;
 
-            
+             //cheack password and Confirm Password is equal or not
             if(pass1 != pass2){
                     alert("Password and Confirm Password doesn't match");
                     return false; 
