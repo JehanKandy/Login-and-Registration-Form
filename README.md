@@ -1,5 +1,5 @@
 # Login-and-Registration-Form
-Login and Registration Form HTML PHP JAVASCRIPT and MYSQL
+Login and Registration Form Bootstrap 5 HTML PHP JAVASCRIPT and MYSQL
 <br>
 
 for .sql file
